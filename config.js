@@ -48,8 +48,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! Now COCCOLE TIME!",
-        message: "!!!",
+        title: "Yay!",
+        message: "Now COCCOLE TIME!!!",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
